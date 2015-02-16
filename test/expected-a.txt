@@ -1,0 +1,3 @@
+/*<![CDATA[*/
+p::before { content: "hello world"; }
+/*]]>*/
