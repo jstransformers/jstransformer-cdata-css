@@ -1,4 +1,4 @@
-# jstransformer-cdata-css-css
+# jstransformer-cdata-css
 
 Transformer that converts a CSS string to XML CDATA.
 
