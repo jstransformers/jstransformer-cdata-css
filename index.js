@@ -2,7 +2,7 @@
 
 var re = /\]\]>/g;
 
-exports.name = 'cdata';
+exports.name = 'cdata-css';
 exports.outputFormat = 'xml';
 
 exports.render = function (str, options) {
