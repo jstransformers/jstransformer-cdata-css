@@ -3,7 +3,7 @@
 var re = /\]\]>/g;
 
 exports.name = 'cdata-css';
-exports.outputFormat = 'xml';
+exports.outputFormat = 'html';
 
 exports.render = function (str, options) {
   var escaped = str.replace(re, "]]]]><![CDATA[>");
