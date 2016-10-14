@@ -5,4 +5,11 @@ node_js:
   - 4
   - 6
 
-after_success: npm run coveralls
+after_success:
+  - npm run coverage
+  - npm i codecov
+  - codecov -f coverage/coverage.json
+
+notifications:
+  email:
+    on_success: never
