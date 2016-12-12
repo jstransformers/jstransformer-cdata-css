@@ -14,8 +14,12 @@
     "istanbul": "^0.4.2"
 =======
     "test-jstransformer": "^1.0.0",
+<<<<<<< HEAD
     "xo": "^0.15.1"
 >>>>>>> Add xo as coding style (#37)
+=======
+    "xo": "^0.17.1"
+>>>>>>> Update xo
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
