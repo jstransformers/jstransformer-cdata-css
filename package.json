@@ -8,6 +8,9 @@
     "xml",
     "css"
   ],
+  "files": [
+    "index.js"
+  ],
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
     "xo": "^0.17.1"

@@ -11,7 +11,7 @@ Transformer that converts a CSS string to XML CDATA.
 
     npm install jstransformer-cdata-css
 
-## API
+## Usage
 
 ```js
 var cdata = require('jstransformer')(require('jstransformer-cdata-css'))
