@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-cdata-css",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A transformer that transforms a CSS string into XML CDATA.",
   "keywords": [
     "jstransformer",
