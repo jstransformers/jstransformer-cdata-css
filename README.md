@@ -1,5 +1,7 @@
 # jstransformer-cdata-css
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-cdata-css.svg)](https://greenkeeper.io/)
+
 Transformer that converts a CSS string to XML CDATA.
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-cdata-css/master.svg)](https://travis-ci.org/jstransformers/jstransformer-cdata-css)
